@@ -1,6 +1,6 @@
 === Mastodon Autopost ===
 Contributors: l1am0
-Tags: mastodon, federated web, GNU social, statusnet, social web, social media, auto post
+Tags: mastodon, Mastodon, Mastdon Autopost, federated web, GNU social, statusnet, social web, social media, auto post
 Requires at least: 3.0.1
 Tested up to: 4.8
 Stable tag: 1.0
