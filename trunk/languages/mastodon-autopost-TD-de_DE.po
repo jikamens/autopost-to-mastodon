@@ -42,3 +42,6 @@ msgstr "Mastodon Autopost Einstellungen"
 
 msgid "Settings"
 msgstr "Einstellungen"
+
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
