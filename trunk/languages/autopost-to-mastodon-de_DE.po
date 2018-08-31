@@ -1,103 +1,98 @@
-#German Translation
-#for Mastdon Autopost Wordpress Plugin
+msgid "Mastodon Autopost Configuration"
+msgstr "Mastodon Autopost Konfiguration"
 
-#: post_meta_box.php
-msgid "Mastodon Autopost"
-msgstr "Mastodon Autopost"
+msgid "Simple configuration"
+msgstr "Einfache Konfiguration"
 
-msgid "Post to Mastodon"
-msgstr "Auf Mastdodon tooten"
+msgid "Advanced configuration"
+msgstr "Erweiterte Konfiguration"
 
-#: settings_page.php
-msgid "Server Settings"
-msgstr "Server Einstellungen"
+msgid "Instance"
+msgstr "Instanz"
 
-msgid "Server URL"
-msgstr "Server URL"
+msgid "Connected as"
+msgstr "Verbunden als"
 
-msgid "Email"
-msgstr "E-Mail"
+msgid "Connect to Mastodon"
+msgstr "Mit Mastodon verbinden"
 
-msgid "Password"
-msgstr "Passwort"
+msgid "Disconnect"
+msgstr "Trennen"
 
-msgid "Plugin Behavior"
-msgstr "Plugin Verhalten"
+msgid "Send test toot"
+msgstr "Test Toot senden"
 
-msgid "Also toot on Post Update"
-msgstr "Auch bei einem Post Update tooten"
+msgid "Disconnected"
+msgstr "Getrennt"
 
-msgid "Please provide the account details for the server."
-msgstr "Bitte gib die Accountdaten des Servers ein."
+msgid "Default Content Warning"
+msgstr "Standart Content Warnung"
 
-msgid "Configure the Plugin Behavior"
-msgstr "Konfiguriere das Plugin Verhalten"
+msgid "and"
+msgstr "und"
 
-msgid "Mastodon Autopost Settings"
-msgstr "Mastodon Autopost Einstellungen"
+msgid "You can use these metas in the message"
+msgstr "Du kannst folgende Metas in der Nachricht verwenden"
 
-msgid "Settings"
-msgstr "Einstellungen"
+msgid "Save configuration"
+msgstr "Konfiguration Speichern"
 
-msgid "Test Settings"
-msgstr "Einstellungen testen"
+msgid "Autopost new posts"
+msgstr "Neue Posts automatisch posten"
 
-msgid "Configure the Post"
-msgstr "Post konfigurieren"
+msgid "Authentification, please wait"
+msgstr "Bitte kurz warten"
 
-msgid "Global Post Hashtags"
-msgstr "Globale Post Hashtags"
+msgid "Toot mode"
+msgstr "Toot Modus"
 
-msgid "Save Settings"
-msgstr "Einstellungen speichern"
+msgid "Message"
+msgstr "Nachricht"
 
-msgid "Do you like Mastodon Autopost?"
-msgstr "Magst du Mastodon Autopost?"
+msgid "Toot size"
+msgstr "Toot Länge"
 
-msgid "Yes"
-msgstr "Ja"
+msgid "Can't log you in."
+msgstr "Login hat nicht funktioniert."
 
-msgid "Please rate the plugin"
-msgstr "Bitte bewerte das Plugin"
+msgid "Please login to your mastodon account!"
+msgstr "Bitte log dich in deinen Mastodon Account ein!"
 
-msgid "For getting the word out, it's important to have good reviews"
-msgstr "Um mehr Verbreitung zu finden sind gute Bewertungen ausschlaggebend"
+msgid "Go to Mastodon Autopost Settings"
+msgstr "Zu den Mastodon Autopost Einstellungen gehen"
 
-msgid "Rate on Wordpress.org"
-msgstr "Bewerte auf Wordpress.org"
+msgid "Instance message"
+msgstr "Instanz Nachricht"
 
-msgid "Consider participating.(e.g. With translating it into another language)"
-msgstr "Hilf mit das Plugin zu verbessern (z.B. in andere Sprachen übersetzen)"
+msgid "The given instance url belongs to no valid mastodon instance !"
+msgstr "Die eingegebene Url ist keine valide Mastodon Instanz !"
 
-msgid "Mastodon Autopost is on Github"
-msgstr "Mastodon Autopost ist auf Github zu finden"
+msgid "Thank you to set your Mastodon instance before connect !"
+msgstr "Danke für das einstellen der Mastodon Instanz !"
 
-msgid "Want to thank in another way?"
-msgstr "Anderweitig beitragen"
+msgid "Redirect to "
+msgstr "Weiterleiten zu "
 
-msgid "Buy me a Mate"
-msgstr "Gib mir ne Mate aus"
+msgid "Configuration successfully saved !"
+msgstr "Konfiguration wurde erfolgreich gespeichert!"
 
-msgid "No"
-msgstr "Nein"
+msgid "Toot saved for schedule !"
+msgstr "Toot für die Zukunft eingestellt !"
 
-msgid "Please give me feedback how your experience could be improved"
-msgstr "Bitte gib mir Feedback wie das Plugin verbessert werden kann"
+msgid "This is my first post with Mastodon Autopost for Wordpress"
+msgstr "Das ist mein erster Post mit Mastodon Autopost für Wordpress"
 
-msgid "Authentication"
-msgstr "Authetifizierung"
+msgid "Sorry, can't send toot !"
+msgstr "Entschuldigung, Toot kann nicht gesendet werden !"
 
-msgid "Login"
-msgstr "Login"
+msgid "Toot successfully sent !"
+msgstr "Toot erfolgreich gesendet !"
 
-msgid "Toot Visibility"
-msgstr "Toot Sichtbarkeit"
-
-msgid "Toot Format"
-msgstr "Toot Format"
+msgid "Toot on Mastodon"
+msgstr "Autopost auf Mastodon"
 
 msgid "Public"
-msgstr "Öffentlicj"
+msgstr "Öffentlich"
 
 msgid "Unlisted"
 msgstr "Nicht gelistet"
@@ -105,66 +100,11 @@ msgstr "Nicht gelistet"
 msgid "Private"
 msgstr "Privat"
 
-msgid "Title"
-msgstr "Titel"
+msgid "Direct"
+msgstr "Direkt"
 
-msgid "Content"
-msgstr "Inhalt"
+msgid "characters"
+msgstr "Zeichen"
 
-msgid "Link"
-msgstr "Link"
-
-msgid "Hashtags"
-msgstr "Hashtags"
-
-msgid "Enter Token"
-msgstr "Token aktivieren"
-
-msgid" Enter the token from the popup. If the popup is not opening visit the following url"
-msgstr "Geben sie den Token aus dem Popup ein. Falls sich das Popup nicht öffnet besuchen sie bitte folgende Webseite"
-
-#Toot Feedback
-
-msgid "Tooted to Mastodon!"
-msgstr "Auf Mastodon gepostet!"
-
-msgid "Mastodon instance not found! Is the URL correct?"
-msgstr "Mastodon Instanz nicht gefunden! Ist die URL korrekt?"
-
-msgid "Could not access mastodon profile! Are email and password correct?"
-msgstr "Mastodon Profil konnte nicht geöffnet werden! Sind Passwort und Email korrekt?"
-
-msgid "Uncaught mastodon error! Please contact the developer."
-msgstr "Unbekannter Mastodon Error! Bitte den Entwickler kontaktieren"
-
-msgid "Test Toot successfully tooted to Mastodon!"
-msgstr "Test Toot wurde erfoglreich auf Mastodon gepostet!"
-
-msgid "Open toot"
-msgstr "Toot öffnen"
-
-#general notice
-msgid "Seems like you are not logged into Mastodon Autopost! Please check the your login!"
-msgstr "Es sieht so aus als wären sie nicht bei Mastodon eingeloggt. Bitte überprüfen sie ihren login!"
-
-#Test Toot
-
-msgid "This is my first toot with the Autopost to Mastodon Wordpress Plugin"
-msgstr "Das ist mein erster Toot mit dem Autopost to Mastodon Wordpress Plugin"
-
-msgid "By clicking the \"Test Settings\" Button the following toot will be tooted to your mastodon profile:"
-msgstr "Beim Klick auf \"Einstellungen Testen\" wird der folgende Test Toot auf dein Mastodon Profil gepostet:"
-
-#javascript localization
-
-msgid "Enter the token from the popup"
-msgstr "Geben sie den Code aus dem Popup ein."
-
-msgid "Please login again and copy the shown code into the popup"
-msgstr "Bitte loggen sie sich erneut ein und kopieren sie den Code."
-
-msgid "Please include the following data in your email:"
-msgstr "Bitte fügen Sie die folgende Daten in Ihre Email ein:"
-
-msgid "Error Data:"
-msgstr "Error Daten:"
+msgid "View Toot"
+msgstr "Zum Toot"
