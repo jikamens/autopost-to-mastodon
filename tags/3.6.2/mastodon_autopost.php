@@ -5,7 +5,7 @@
  * Description: A Wordpress Plugin that automatically posts your new articles to Mastodon
  * Version: 3.6.2
  * Author: L1am0
- * Author URI: https://www.simon-frey.eu
+ * Author URI: https://www.simon-frey.com
  * License: GPL2
  * Text Domain: autopost-to-mastodon
  * Domain Path: /languages

@@ -21,8 +21,8 @@ Find the plugin settings: Settings > Mastodon Autpost
 Just set your credentials and your post preference and lean back. The rest is done in the background and you don't have to care about it.
 
 For any questions, do not hesitate to contact me:
-*	Mail: mastodonautopost@simon-frey.eu
-*	Mastodon: chaos.social/@l1am0
+*	Mail: mastodonautopost@simon-frey.com
+*	Mastodon: indiehackers.social/@simon
 
 Do you want to help translating this plugin in your language? [Visit the translation page](https://translate.wordpress.org/projects/wp-plugins/autopost-to-mastodon)
 
