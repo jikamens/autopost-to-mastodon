@@ -552,6 +552,12 @@ class autopostToMastodon
     private function fixHashTag($tag)
     {
         $tag = html_entity_decode($tag, ENT_COMPAT, 'UTF-8');
+        // Treat hyphens as spaces for purposes of CamelCase capitalization.
+        // \u{2013} is en dash. \u{2014} is em dash.
+        // I tried putting the three characters inside [] instead of using |
+        // and it gave weird results, presumably because Unicode characters
+        // inside [] behaves weirdly, so that's why I'm using | here.
+        $tag = preg_replace("/-|\u{2013}|\u{2014}/", ' ', $tag);
         if (preg_match('/\s/', $tag)) {
            $tag = ucwords($tag);
         }
